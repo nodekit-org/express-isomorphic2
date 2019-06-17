@@ -1,4 +1,6 @@
 # express-isomorphic2
+**This repository is moved to [express-isomorphic](https://github.com/nodekit-org/express-isomorphic)**
+
 Server for isomorphic application, built on top of express.js
 
 ## Inspiration
